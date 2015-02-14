@@ -1,4 +1,4 @@
-# mbed_NucleoF411RE
+# mbed_NucleoF401RE
 
 Now is easier than ever to use **mbed** library offline with eclipse and GNU ARM. In this repository you will find a eclipse project with mbed library for ST [**NucleoF401RE**](http://developer.mbed.org/platforms/ST-Nucleo-F401RE/) board.
 
